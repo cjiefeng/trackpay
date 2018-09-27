@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "602235506234",
+    "firebase_url": "https://trackpay-a7917.firebaseio.com",
+    "project_id": "trackpay-a7917",
+    "storage_bucket": "trackpay-a7917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602235506234:android:1fe8a3098e72b810",
+        "android_client_info": {
+          "package_name": "com.trackpay.trackpayapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602235506234-4nbmme83jt0l4ck7eqr2dh6leuoipd6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trackpay.trackpayapp",
+            "certificate_hash": "161a6ab5a75f7b22a15f8cad6f69f36c915449a8"
+          }
+        },
+        {
+          "client_id": "602235506234-o2imivude7nuka864lppe51gdupcegke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyFMUvx7dh9eQkIeC7ApKirSKsZDxr92M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602235506234-o2imivude7nuka864lppe51gdupcegke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
